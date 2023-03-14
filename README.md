@@ -5,9 +5,9 @@
 
 <ul>
 <li>Upload Image</li>
-![Screenshot 2023-03-15 001618](https://user-images.githubusercontent.com/106328022/225106976-0092006f-ab44-4c14-9349-9b80cedb2664.png)
+<img src ="https://user-images.githubusercontent.com/106328022/225106976-0092006f-ab44-4c14-9349-9b80cedb2664.png">
 <li> Wait for it to say if it's a HotDog</li>
-![Screenshot 2023-03-15 001652](https://user-images.githubusercontent.com/106328022/225107028-c74f3084-6db4-4a28-9b33-0f2574718601.png)
+<img src = "https://user-images.githubusercontent.com/106328022/225107028-c74f3084-6db4-4a28-9b33-0f2574718601.png">
 </ul>
 
 <h2> About the model </h2>
